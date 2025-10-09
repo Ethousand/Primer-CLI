@@ -2,7 +2,7 @@
 
 Primer repositorio creado con la herramienta de CLI
 
-agregado proyectto con fastapi y uvicorn usado en un entorno linux desde WSl en win 11
+agregado proyecto con fastapi y uvicorn usado en un entorno linux desde WSl en win 11
 
 ### Colaboración en el equipo
 
